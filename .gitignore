@@ -1,2 +1,8 @@
+# Peroject settings
+target
 *.class
 *.log
+
+# idea settings
+.idea
+scala-functional-programming.iml
